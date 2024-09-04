@@ -64,8 +64,8 @@ header2 .set img{
 }
 header2 .set5 img{
     padding-top: 1.5em;
-    width: 55em;
-    height: 40em;
+    width: 40em;
+    height: 35em;
 }
 navbar{
     display: grid;
