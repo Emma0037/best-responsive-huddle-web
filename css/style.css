@@ -64,8 +64,8 @@ header2 .set img{
 }
 header2 .set5 img{
     padding-top: 1.5em;
-    width: 40em;
-    height: 35em;
+    width: 33em;
+    height: 27em;
 }
 navbar{
     display: grid;
@@ -129,8 +129,8 @@ main .set1 p{
     font-family: Open Sans;
 }
 main .set img{
-    width: 40em;
-    height: 30em;
+    width: 33em;
+    height: 27em;
 
 }
 main1{
@@ -158,8 +158,8 @@ main1 .set1 p{
     font-family: Open Sans;
 }
 main1 .set img{
-    width: 40em;
-    height: 30em;
+    width: 33em;
+    height: 27em;
 
 }
 main2{
@@ -187,8 +187,8 @@ main2 .set1 p{
     font-family: Open Sans;
 }
 main2 .set img{
-    width: 40em;
-    height: 30em;
+    width: 33em;
+    height: 27em;
 
 }
 
@@ -370,8 +370,8 @@ header2 .btn:hover{
         padding-bottom: 4em;
     }
     main .set img{
-        width: 40em;
-        height: 30em;
+        width: 33em;
+        height: 27em;
         display: grid;
         padding-right: 3em;
         padding-top: 1.5em;
@@ -408,8 +408,8 @@ header2 .btn:hover{
         padding-bottom: 4em;
     }
     main1 .set img{
-        width: 40em;
-        height: 30em;
+        width: 33em;
+        height: 27em;
         display: grid;
         padding-right: 3em;
         padding-top: 1.5em;
@@ -446,8 +446,8 @@ header2 .btn:hover{
         padding-bottom: 4em;
     }
     main2 .set img{
-        width: 40em;
-        height: 30em;
+        width: 33em;
+        height: 27em;
         display: grid;
         padding-right: 3em;
         padding-top: 1.5em;
