@@ -356,6 +356,16 @@ header2 .btn:hover{
     background-color: hsl(321, 100%, 78%);
 }
 @media (min-width:400px) {
+    header2 h2{
+        font-size:3em
+    }
+    header2 p{
+        font-size:1em
+    }
+    header2 .set5 img{
+    width: 40em;
+    height: 30em;
+    }
     navbar{
         display: flex;
         padding-top: 4em;
