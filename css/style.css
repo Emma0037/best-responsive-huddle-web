@@ -33,7 +33,7 @@ header2{
     justify-items: center;
 }
 header2 h2{
-    font-size: 2em;
+    font-size: 1.7em;
     color: hsl(192, 100%, 9%);
     text-align: center;
     line-height: 1em;
@@ -41,7 +41,7 @@ header2 h2{
     font-family: poppins;
 }
 header2 p{
-    font-size: 1em;
+    font-size: 0.8em;
     color: hsl(192, 100%, 9%) ;
     text-align: center;
     padding-bottom: 1.5em;
@@ -64,15 +64,15 @@ header2 .set img{
 }
 header2 .set5 img{
     padding-top: 1.5em;
-    width: 27em;
-    height: 23em;
+    width: 23em;
+    height: 19em;
 }
 navbar{
     display: grid;
     justify-content: center;
 }
 navbar .set h1{
-    font-size: 6em;
+    font-size: 5.5em;
     color: hsl(192, 100%, 9%);
     text-align: center;
     padding-bottom: 0.5em;
@@ -80,7 +80,7 @@ navbar .set h1{
     font-family: poppins;
 }
 navbar .set p{
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: hsl(192, 100%, 9%) ;
     text-align: center;
     padding-bottom: 0.5em;
@@ -88,7 +88,7 @@ navbar .set p{
     font-family: Open Sans;
 }
 navbar .set1 h1{
-    font-size: 6em;
+    font-size: 5.5em;
     color: hsl(192, 100%, 9%);
     text-align: center;
     padding-bottom: 0.5em;
@@ -96,7 +96,7 @@ navbar .set1 h1{
     font-family: poppins;
 }
 navbar .set1 p{
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: hsl(192, 100%, 9%) ;
     text-align: center;
     padding-bottom: 0.1em;
@@ -115,22 +115,22 @@ main .set1{
     text-align: center;
 }
 main .set1 h2{
-    font-size: 2em;
+    font-size: 1.7em;
     color: hsl(192, 100%, 9%);
     padding-bottom: 0.1em;
     padding-top: 0.1em;
     font-family: poppins;
 }
 main .set1 p{
-    font-size: 1em;
+    font-size: 0.8em;
     color: hsl(192, 100%, 9%) ;
     padding-bottom: 0.1em;
     line-height: 1.5em;
     font-family: Open Sans;
 }
 main .set img{
-    width: 27em;
-    height: 23em;
+    width: 23em;
+    height: 19em;
 
 }
 main1{
@@ -144,22 +144,22 @@ main1 .set1{
     text-align: center;
 }
 main1 .set1 h2{
-    font-size: 2em;
+    font-size: 1.7em;
     color: hsl(192, 100%, 9%);
     padding-bottom: 0.5em;
     padding-top: 0.5em;
     font-family: poppins;
 }
 main1 .set1 p{
-    font-size: 1em;
+    font-size: 0.8em;
     color: hsl(192, 100%, 9%) ;
     padding-bottom: 0.5em;
     line-height: 1.5em;
     font-family: Open Sans;
 }
 main1 .set img{
-    width: 27em;
-    height: 23em;
+    width: 23em;
+    height: 19em;
 
 }
 main2{
@@ -173,22 +173,22 @@ main2 .set1{
     text-align: center;
 }
 main2 .set1 h2{
-    font-size: 2em;
+    font-size: 1.7em;
     color: hsl(192, 100%, 9%);
     padding-bottom: 0.5em;
     padding-top: 0.5em;
     font-family: poppins;
 }
 main2 .set1 p{
-    font-size: 1em;
+    font-size: 0.8em;
     color: hsl(192, 100%, 9%) ;
     padding-bottom: 0.5em;
     line-height: 1.5em;
     font-family: Open Sans;
 }
 main2 .set img{
-    width: 27em;
-    height: 23em;
+    width: 23em;
+    height: 19em;
 
 }
 
@@ -200,7 +200,7 @@ main3{
      padding-bottom: 7em;
 }
 main3 h2{
-    font-size: 2em;
+    font-size: 1.7em;
     text-align: center;
     line-height: 1em;
     padding-bottom: 0.5em;
