@@ -64,15 +64,15 @@ header2 .set img{
 }
 header2 .set5 img{
     padding-top: 1.5em;
-    width: 33em;
-    height: 27em;
+    width: 27em;
+    height: 23em;
 }
 navbar{
     display: grid;
     justify-content: center;
 }
 navbar .set h1{
-    font-size: 7em;
+    font-size: 6em;
     color: hsl(192, 100%, 9%);
     text-align: center;
     padding-bottom: 0.5em;
@@ -88,7 +88,7 @@ navbar .set p{
     font-family: Open Sans;
 }
 navbar .set1 h1{
-    font-size: 7em;
+    font-size: 6em;
     color: hsl(192, 100%, 9%);
     text-align: center;
     padding-bottom: 0.5em;
@@ -129,8 +129,8 @@ main .set1 p{
     font-family: Open Sans;
 }
 main .set img{
-    width: 33em;
-    height: 27em;
+    width: 27em;
+    height: 23em;
 
 }
 main1{
@@ -158,8 +158,8 @@ main1 .set1 p{
     font-family: Open Sans;
 }
 main1 .set img{
-    width: 33em;
-    height: 27em;
+    width: 27em;
+    height: 23em;
 
 }
 main2{
@@ -187,8 +187,8 @@ main2 .set1 p{
     font-family: Open Sans;
 }
 main2 .set img{
-    width: 33em;
-    height: 27em;
+    width: 27em;
+    height: 23em;
 
 }
 
